@@ -1,6 +1,6 @@
 title: "Andy Bridger"
 author: "Andrew Bridger"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+description: ""
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -22,7 +22,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:andrewjohnbridger@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/andybridger"}
-  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/andrewbridger/"}
+  - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/andrewbridger/"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
