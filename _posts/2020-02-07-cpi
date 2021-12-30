@@ -5,4 +5,11 @@ layout: post
 categories: media
 ---
 
+## Embedded content
+
+You can also embed a lot of stuff, for example from YouTube, using the `embed.html` include.
+
+{% include embed.html url="https://www.youtube.com/embed/_C0A5zX-iqM" %}
+
+
 <div class="flourish-embed" data-src="story/177756"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
