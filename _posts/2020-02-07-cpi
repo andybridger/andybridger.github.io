@@ -2,7 +2,9 @@
 title:  "cpi"
 mathjax: false
 layout: post
-categories: media
+categories:
+  -flourish
+  -data visualisation
 ---
 
 ## Embedded content
