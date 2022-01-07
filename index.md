@@ -8,4 +8,6 @@ Andrew Bridger (Andy) is an economist, passionate about applying and communicati
 
 Prior to joining the Australian Industry Group, he worked for the Australian Department of Industry, Innovation and Science and for a private economic consulting firm in Brisbane. He holds a Bachelor of Economics and Finance from the University of Queensland.
 
-![andy](https://raw.githubusercontent.com/andybridger/resume/main/andy.jpeg)
+<p align="center">
+<img src="https://raw.githubusercontent.com/andybridger/resume/main/andy.jpeg"/>
+</p>
