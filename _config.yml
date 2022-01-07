@@ -16,13 +16,14 @@ minimal: true             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {title: "CV", url: "resume_andybridger.pdf"}
+  - {file: "index.md", title: "Home", icon: home}
+  - {title: "CV", url: "resume_andybridger.pdf", icon: file}
   - {file: "blog.md", title: "Blog", icon: blog}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:andrewjohnbridger@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/andybridger"}
   - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/andrewbridger/"}
+  - {title: Mail, icon: envelope, url: "mailto:andrewjohnbridger@gmail.com"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
