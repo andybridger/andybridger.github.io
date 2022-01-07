@@ -3,7 +3,7 @@ title: "Manufacturing Jobs in Australia: long-term trends and the impact of COVI
 layout: post
 ---
 
-Blog post on the long-term trends and the impact of COVID-19 on manufacturing jobs in Australia.
+Blog post for the Australian Industry Group on the long-term trends and the impact of COVID-19 on manufacturing jobs in Australia.
 
 Check out the blog [here][here-web].
 
