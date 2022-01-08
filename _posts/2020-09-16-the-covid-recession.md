@@ -6,7 +6,7 @@ categories:
   - flourish
 ---
 
-# Data story for The Australian Industry Group
+Data story for The Australian Industry Group
 
 The National Accounts released by the Australian Bureau of Statistics confirmed Australia has entered its first recession in 29 years. But how does Australia’s economic performance compare with other countries?
 
