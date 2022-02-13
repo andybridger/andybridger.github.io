@@ -12,3 +12,7 @@ title: "Influential work"
 
 - Conducted statistical analysis and authored the Australian Performance of Manufacturing Index every month, which provides a timely indicator for business and government agencies on the manufacturing sector in Australia
 
+
+- Developed code to incorporate the Ai Group Style Guide and logo into charts created in R
+
+
