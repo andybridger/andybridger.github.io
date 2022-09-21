@@ -4,7 +4,7 @@ layout: post
 
 ---
 
-This project studied the international uncertainty links between Australia and other countries using a Bayesian Additive Regression Trees (BART) algorithm and was undertaken while doing my Master of Science in Economics at the University of Edinburgh.
+This project studies international uncertainty links between Australia and other countries using a Bayesian Additive Regression Trees (BART) algorithm and was undertaken while doing my Master of Science in Economics at the University of Edinburgh.
 
 - The final report can be downloaded [here](https://github.com/andybridger/BayesianProject/blob/main/BART/Final_Project.pdf)
 - The R code to replicate the research can be found [here](https://github.com/andybridger/BayesianProject/blob/main/BART/bayes_code.R)
