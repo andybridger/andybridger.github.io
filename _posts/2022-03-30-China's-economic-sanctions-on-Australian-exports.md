@@ -14,4 +14,4 @@ This project investigates the impact of China's economic sanctions on Australian
 
 You can also embed a lot of stuff, for example from YouTube, using the `embed.html` include.
 
-{% include embed.pdf url="https://github.com/andybridger/econpolicy/blob/main/econpolicy/policy_presentation.pdf" %}
+<object data="https://github.com/andybridger/econpolicy/blob/main/econpolicy/policy_paper.pdf" width="1000" height="1000" type='application/pdf'></object>
