@@ -1,0 +1,10 @@
+---
+title: "You’re on mute: Working from home and its impact on the communities"
+layout: post
+---
+
+## Embedded content
+
+You can also embed a lot of stuff, for example from YouTube, using the `embed.html` include.
+
+{% include embed.html url="https://insightmagazine.uk/youre-on-mute-working-from-home-and-its-impact-on-the-communities/" %}
