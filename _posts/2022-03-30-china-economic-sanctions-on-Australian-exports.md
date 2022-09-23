@@ -12,3 +12,6 @@ This project investigates the impact of China's economic sanctions on Australian
 
 <embed src="https://andybridger.github.io/policy_paper.pdf" />
 
+
+https://docs.google.com/viewer?url=https://raw.githubusercontent.com/degoes-consulting/lambdaconf-2015/master/speakers/jdegoes/intro-purescript/presentation.pdf
+
