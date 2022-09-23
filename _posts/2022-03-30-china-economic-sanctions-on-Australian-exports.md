@@ -10,7 +10,5 @@ This project investigates the impact of China's economic sanctions on Australian
 - The PowerPoint presentation associated with the report can be found [here](https://github.com/andybridger/econpolicy/blob/main/econpolicy/policy_presentation.pdf)
 - The R code to replicate the charts can be found [here](https://github.com/andybridger/econpolicy/blob/main/econpolicy/chart_code.R)
 
-## Embedded content
-
 <embed src="https://sumanbogati.github.io/sample.pdf" type="application/pdf" />
 
