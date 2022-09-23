@@ -10,6 +10,6 @@ This project investigates the impact of China's economic sanctions on Australian
 
 <embed src="https://andybridger.github.io/policy_paper.pdf" width="500" height="375"/>
 
-## Slides for presentation
+### Slides for presentation
 
 <embed src="https://andybridger.github.io/policy_presentation.pdf" width="500" height="375"/>
