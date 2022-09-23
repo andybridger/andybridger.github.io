@@ -12,7 +12,7 @@ This project investigates the impact of China's economic sanctions on Australian
 
 ## Embedded content
 
-You can also embed a lot of stuff, for example from YouTube, using the `embed.html` include.
+You can also embed a lot of stuff, for example from YouTube,
 
 [embed]https://github.com/andybridger/andybridger.github.io/blob/master/_posts/policy_paper.pdf[/embed]
 
