@@ -3,4 +3,3 @@ title: "Solving the distance puzzle for services"
 layout: post
 ---
 
-This project studies international uncertainty links between Australia and other countries using a Bayesian Additive Regression Trees (BART) algorithm and was undertaken while doing my Master of Science in Economics at the University of Edinburgh.
