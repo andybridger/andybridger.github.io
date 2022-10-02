@@ -10,6 +10,6 @@ Prior to joining the Australian Industry Group, he worked for the Australian Dep
 
 
 
-![test](https://github.com/andybridger/andybridger.github.io/blob/d9a7159ac95e67c971a6ac36f00e1d0d3229f80f/me_pink_circle.png)
+![test1](https://github.com/andybridger/andybridger.github.io/blob/d9a7159ac95e67c971a6ac36f00e1d0d3229f80f/me_pink_circle.png)
 
 <div style="text-align: center"><img src="https://github.com/andybridger/andybridger.github.io/blob/d9a7159ac95e67c971a6ac36f00e1d0d3229f80f/me_pink_circle.png" width="300" /></div>
