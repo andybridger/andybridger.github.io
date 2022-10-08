@@ -8,4 +8,4 @@ This is my final dissertation from my Master of Science in Economics at the Univ
 
 ### Final paper
 
-<embed src="https://andybridger.github.io/estimating_aves.pdf" width="500" height="375"/>
+<embed src="https://andybridger.github.io/estimating_aves.pdf" width="700" height="375"/>
