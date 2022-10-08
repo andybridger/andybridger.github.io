@@ -7,4 +7,4 @@ Blog post for the Australian Industry Group on the 2021-22 Budget and why the Au
 
 Check out the blog [here][here-web].
 
-[here-web]: https://www.aigroup.com.au/news/blogs/2020/nothing-to-fear-from-debt-and-deficit/
+[here-web]: https://andybridger.github.io/preso-final
