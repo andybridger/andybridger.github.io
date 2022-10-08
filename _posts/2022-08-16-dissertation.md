@@ -8,4 +8,4 @@ This is my final dissertation from my Master of Science in Economics at the Univ
 
 ### Final paper
 
-<embed src="https://andybridger.github.io/policy_paper.pdf" width="600" height="375"/>
+<embed src="https://andybridger.github.io/policy_paper.pdf" width="300" height="375"/>
