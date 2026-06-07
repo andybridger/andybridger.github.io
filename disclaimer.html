@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Disclaimer, Andrew Bridger</title>
+  <meta name="description" content="Disclaimer for the personal website of Andrew Bridger, economist." />
+  <meta name="robots" content="noindex" />
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600&display=swap" rel="stylesheet" />
+
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- ============================== NAV ============================== -->
+  <header class="site-header">
+    <nav class="nav container">
+      <a href="index.html" class="nav__brand">Andrew Bridger</a>
+      <ul class="nav__links">
+        <li><a href="index.html#about">About</a></li>
+        <li><a href="index.html#research">Research</a></li>
+        <li><a href="index.html#experience">Experience</a></li>
+        <li><a href="blog.html">Writing</a></li>
+        <li><a class="nav__cv" href="AndrewBridger_CV.pdf">CV</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main id="top">
+    <section class="hero container" style="padding-bottom:1rem;">
+      <div class="hero__text">
+        <p class="eyebrow">Legal</p>
+        <h1 class="hero__name">Disclaimer</h1>
+        <p class="entry__byline">Last updated: 7 June 2026</p>
+      </div>
+    </section>
+
+    <section class="container section legal" style="border-top:none;padding-top:0;">
+      <h3 class="legal__h">1. Independence</h3>
+      <p>
+        This website is an independent, personal site run by Andrew Bridger. It is
+        separate from any current or former employer, and is not affiliated with,
+        endorsed by, or representative of them.
+      </p>
+
+      <h3 class="legal__h">2. No professional advice and accuracy of information</h3>
+      <p>
+        The content of this website is provided for general information only and does
+        not constitute economic, financial, investment, legal, or other professional
+        advice. While I make reasonable efforts to keep the information accurate and
+        up to date, I make no representations or warranties of any kind, express or
+        implied, about its completeness, accuracy, reliability, or suitability. Any
+        reliance you place on such information is strictly at your own risk, and you
+        should verify it independently before acting on it.
+      </p>
+
+      <h3 class="legal__h">3. Limitation of liability</h3>
+      <p>
+        To the fullest extent permitted by law, I accept no liability for any loss or
+        damage, whether direct, indirect, incidental, consequential or punitive, that
+        arises from the use of, or reliance on, this website or its content, including
+        any errors or omissions.
+      </p>
+
+      <h3 class="legal__h">4. External links</h3>
+      <p>
+        This website may contain links to external sites that are not provided or
+        maintained by me. I do not endorse, control, or take responsibility for the
+        content, privacy practices, or accuracy of information on these linked
+        websites.
+      </p>
+
+      <h3 class="legal__h">5. Copyright</h3>
+      <p>
+        Unless otherwise stated, the original content on this website, including text,
+        images, graphics and other materials, is the property of Andrew Bridger and is
+        protected by applicable copyright law. It may not be reproduced or
+        redistributed without prior written permission.
+      </p>
+
+      <h3 class="legal__h">6. Views and opinions</h3>
+      <p>
+        Any views and opinions expressed on this website are solely my own and do not
+        represent those of any employer, organisation, or other body with which I am
+        or have been associated.
+      </p>
+
+      <h3 class="legal__h">7. Contact</h3>
+      <p>
+        If you have any questions about this disclaimer, please get in touch at
+        <a href="mailto:andrewjohnbridger@gmail.com">andrewjohnbridger@gmail.com</a>.
+      </p>
+    </section>
+  </main>
+
+  <!-- ============================== FOOTER ============================== -->
+  <footer class="site-footer">
+    <div class="container footer__inner">
+      <p>© <span id="year"></span> Andrew Bridger</p>
+      <ul class="footer__links">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="mailto:andrewjohnbridger@gmail.com">Email</a></li>
+        <li><a href="disclaimer.html">Disclaimer</a></li>
+        <li><a href="terms.html">Terms &amp; Conditions</a></li>
+      </ul>
+    </div>
+  </footer>
+
+  <script>
+    document.getElementById("year").textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>

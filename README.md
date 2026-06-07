@@ -2,7 +2,7 @@
 
 Personal website of **Andrew Bridger**, economist (causal inference & impact estimation).
 
-A static, single-page site — plain HTML and CSS, no build step or framework.
+A static, single-page site built with plain HTML and CSS, with no build step or framework.
 Published with GitHub Pages at <https://andybridger.github.io/>.
 
 ## Files
@@ -23,7 +23,7 @@ Published with GitHub Pages at <https://andybridger.github.io/>.
 
 ## Local preview
 
-No server needed — open `index.html` in a browser, or run any static server, e.g.:
+No server needed. Open `index.html` in a browser, or run any static server, e.g.:
 
 ```bash
 python3 -m http.server 4040   # then visit http://localhost:4040
@@ -41,4 +41,4 @@ git push origin master
 
 ## License
 
-[public domain](http://unlicense.org/) — see `UNLICENSE.txt`.
+[public domain](http://unlicense.org/), see `UNLICENSE.txt`.

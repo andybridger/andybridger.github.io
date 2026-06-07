@@ -1,5 +1,5 @@
 /* ============================================================
-   Andrew Bridger — personal site
+   Andrew Bridger, personal site
    Typography: Inter (headings / UI) + Source Serif 4 (body)
    Palette: off-white surfaces, charcoal text, deep slate-blue accent
    ============================================================ */
@@ -8,7 +8,7 @@
   /* Colour palette */
   --bg:          #ffffff;
   --surface:     #f6f8fa;
-  --ink:         #1a2433;   /* near-charcoal navy — primary text */
+  --ink:         #1a2433;   /* near-charcoal navy, primary text */
   --ink-soft:    #3f4b5b;
   --muted:       #6b7787;   /* secondary text */
   --accent:      #1f4e79;   /* deep slate blue */
@@ -312,6 +312,19 @@ h1, h2, h3 { font-family: var(--font-sans); color: var(--ink); line-height: 1.25
   padding: 0;
   font-weight: 500;
 }
+
+/* ---------- Legal pages (disclaimer / terms) ---------- */
+.legal { max-width: 100%; }
+.legal__h {
+  font-size: 1.05rem;
+  font-weight: 600;
+  margin: 1.75rem 0 .4rem;
+}
+.legal p {
+  color: var(--ink-soft);
+  margin: 0 0 .5rem;
+}
+.legal > p:first-child { margin-top: 0; }
 
 /* ============================== RESPONSIVE ============================== */
 @media (max-width: 640px) {
